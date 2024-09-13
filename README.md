@@ -1,0 +1,2 @@
+# Graph-Neural-Network-A-Powerful-Tool-for-Network-Structured-Data-Analysis.-
+Graph Neural Networks (GNNs) are a cutting-edge branch of machine learning that targets the processing of data structured in the form of graphs. This technique is particularly potent for applications where data is inherently relational and interconnected, such as social networks, chemical structures, or even communication networks.
